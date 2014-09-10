@@ -6,6 +6,8 @@ category:
 tags: []
 ---
 
-Testing out latex to see if it works. $X + Y = Z$. 
+Testing out latex to see if it works. $$X_i + Y = Z$$.
+
+$$p_\theta (\mathbf y \mid \mathbf r) \sim \mathscr D(\alpha H).$$
 
 {% include JB/setup %}
