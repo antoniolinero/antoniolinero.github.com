@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Antonio Linero's Webpage
+tagline: 
 ---
 {% include JB/setup %}
 
