@@ -26,10 +26,11 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Antonio Linero
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "My name is Antonio Linero, and I am a graduate student at the 
+        University of Florida."
+  email: theodds@ufl.edu
   disqus-shortname: 
   twitter: #username
   facebook: #username
