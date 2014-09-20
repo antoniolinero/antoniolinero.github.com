@@ -1,0 +1,147 @@
+/*
+ * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+ *
+ * CSS for making a resume with pandoc. Inspired by moderncv.
+ *
+ * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+ * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+ */
+
+/* Whole document */
+
+.hangingindent {
+    padding-left: 22px ;
+    text-indent: -22px ;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+div.hangingindent + ul {
+    padding-left: 0px;
+}
+
+div.hangingindent + ul li {
+    padding-left: 22px ;
+    text-indent: -22px ;   
+    list-style: none;
+}
+
+div.hangingindent + ul li p {
+    padding-top: 5px; 
+    margin-bottom: 0px;
+}
+
+/* .hangingindent2:last-of-type { */
+/*     margin-bottom: 0px; */
+/* } */
+
+body {
+    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    /* width: 1800px; */
+    /* margin: auto; */
+    /* background: #FFFFFF; */
+    /* padding: 0px 0px 0px 0px; */
+}
+
+/* Title of the resume */
+h1 {
+    font-size: 55px;
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
+/* h1:hover { */
+/*     background-color: #757575; */
+/*     color: #FFFFFF; */
+/*     text-shadow: 1px 1px 1px #333; */
+/* } */
+
+/* Titles of categories */
+h2 {
+    /* color: #397249; */
+    color: #43a2ca;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 40%;
+    height: 10px;
+    /* background-color: #9CB770; */
+    background-color: #43a2ca;
+}
+/* h2:hover { */
+/*     background-color: #397249; */
+/*     color: #FFFFFF; */
+/*     text-shadow: 1px 1px 1px #333; */
+/* } */
+
+/* Definitions */
+dl {
+    *zoom: 1;
+}
+dl:before, dl:after {
+    display: table;
+    content: "";
+    // Fixes Opera/contenteditable bug:
+    // http://nicolasgallagher.com/micro-clearfix-hack/#comment-36952
+    line-height: 0;
+}
+dl:after {
+    clear: both;
+}
+
+dt {
+    float: left;
+    clear: left;
+    /* width: 30% */
+    width: 20%;
+    /*font-weight: bold;*/
+}
+dd {
+    float: left;
+    width: 75%;
+    margin-left: 5%;
+    /* margin-left: 30%; */
+    margin-bottom: 1.1em;
+}
+dd:last-child {
+    margin-bottom: 0em;
+}
+/* p { */
+/*     margin-top: 25px; */
+/*     margin-bottom: 25px; */
+/* } */
+dd p {
+   padding-top: 5px; 
+   margin-bottom: 0px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+/* a { */
+/*     text-decoration: none; */
+/*     color: #397249; */
+/* } */
+/* a:hover, a:active { */
+/*     background-color: #397249; */
+/*     color: #FFFFFF; */
+/*     text-decoration: none; */
+/*     text-shadow: 1px 1px 1px #333; */
+/* } */
+
+/* Horizontal separators */
+hr {
+    color: #A6A6A6;
+}
