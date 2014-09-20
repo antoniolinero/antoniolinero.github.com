@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Projects
 tags: 
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -9,8 +9,6 @@ image:
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
-
-# Projects
 
 ## Inference under Nonignorable Missingness in Longitudinal Studies
 
@@ -21,10 +19,12 @@ $$R_{ij} = 1$$ or $$0$$ according as $$Y_{ij}$$ is observed or
 not. The presence of missing data introduces two substantial
 problems. 
 
-1. For efficient inference, the values of $$Y_{ij}$$ for which $$R_{ij} =
-   0$$ must - in some sense - be imputed. Even if the missing data is
-   missing at random, this is a hard problem in light of the curse of
-   dimensionality. 
+1. For efficient inference, the values of $$Y_{ij}$$ for which
+   $$R_{ij} = 0$$ must - in some sense - be imputed. Even if the
+   missing data is missing at random, this is a hard problem in light
+   of the curse of dimensionality. Most imputation based methods make
+   quite strong parametric assumptions about the distribution of the
+   missing data, such as multivariate normality.
 2. When the missing data cannot reasonably be assumed to be missing at
    random, the distribution of $$p_\theta(\mathbf y_{mis} \mid \mathbf
    y_{obs}, \mathbf r)$$ is not nonparametrically identified. 
@@ -36,7 +36,7 @@ $$p_\theta(\mathbf y_{obs}, \mathbf r)$$ which strike a compromise between
 complexity and parsimony, but which otherwise makes no assumptions
 about $$p_\theta(\mathbf y_{mis} \mid \mathbf y_{obs}, \mathbf r)$$. To
 address the second issue, we embed the distribution of the missing
-data in a parametric family which controls deviations of our model
+data in a semiparametric family which controls deviations of our model
 from some baseline assumption, such as missing at random, indexed by a
 completely unidentified sensitivity parameter $$\xi$$. In true Bayesian
 fashion, an expert-prior may be elicited on this parameter to collate

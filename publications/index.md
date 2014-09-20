@@ -14,12 +14,11 @@ image:
 
 <!-- <div class="hangingindent"> </div> -->
 
-- **Linero, A.R.** and Daniels, M. (2014) A Flexible
-  Bayesian Approach to Monotone Missing Data in Longitudinal Studies
-  with Informative Dropout with Application to a Schizophrenia
-  Clinical Trial. <em>Under Revise and Resubmit for Journal of the
-  American Statistical
-  Association</em>. [pdf](/publications/BNPMM-07-03-2014-Unblinded.pdf)
+- **Linero, A.R.** and Daniels, M. (2014) A Flexible Bayesian Approach
+  to Monotone Missing Data in Longitudinal Studies with Informative
+  Dropout with Application to a Schizophrenia Clinical
+  Trial. <em>Journal of the American Statistical Association</em>,
+  forthcoming. [pdf](/publications/BNPMM-07-03-2014-Unblinded.pdf)
   [supplemental material](/publications/BNPMM-SupplementalMaterial.pdf)
 
 - **Linero, A.R.** and Rosalsky, A. (2013) On the Toeplitz Lemma,
