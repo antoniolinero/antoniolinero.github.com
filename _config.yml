@@ -2,8 +2,8 @@
 
 title:            Antonio Linero's Webpage
 locale:           en_US
-url:              http://localhost:4000
-# url: 		    http://antoniolinero.github.io
+# url:              http://localhost:4000
+url: 		    http://antoniolinero.github.io
 # baseurl: 	  '/antoniolinero.github.com'
 
 
