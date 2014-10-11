@@ -28,7 +28,6 @@ image:
 > theodds@ufl.edu
 
 ----
-
 ## Education
 
 2005 - 2009
@@ -53,8 +52,8 @@ image:
 
 
 2014 
-:   **Student Travel Award**, American Statistical Association Joint
-    Statistical Meeting Student.<!--  *A Flexible Bayesian -->
+:   **Student Travel Award** from the American Statistical Association, 
+    to attend the Joint Statistical Meeting Student.<!--  *A Flexible Bayesian -->
     <!-- Approach to Monotone Missing Data in Longitudinal Studies with -->
     <!-- Informative Dropout* -->
 
@@ -73,7 +72,7 @@ Fall 2010 - Spring 2013
   to Monotone Missing Data in Longitudinal Studies with Informative
   Dropout with Application to a Schizophrenia Clinical
   Trial. <em>Journal of the American Statistical Association</em>,
-  forthcoming
+  forthcoming.
 
 - **Linero, A.R.** and Rosalsky, A. (2013) On the Toeplitz Lemma,
   Convergence in Probability, and Mean Convergence. <em>Stochastic
@@ -97,7 +96,7 @@ Fall 2011 - Spring 2015
 :   **Teaching Assistant**, University of Florida, Department of
     Statistics.
 
-    Assisted instructors in adminstering the following courses: Theory
+    Assisted instructors in administering the following courses: Theory
     of Interest, Life Contingencies, Linear Models, Categorical Data
     Analysis, Introduction to Statistics 1, Introduction to Statistics
     2.
@@ -111,7 +110,7 @@ Technical Skills
 --------------------
 
 *Languages & Software*
-:   R, BUGS/JAGS, C++, STAN, Python, LaTeX, SAS, Matlab/Octave, Julia.
+:   R, BUGS/JAGS/STAN, C++, Python, LaTeX, SAS, Matlab/Octave, Julia, Linux/Windows/OSX.
 
 *Packages*
 :   DPMiss, an R package for the analysis of nonignorable missing data
@@ -120,14 +119,16 @@ Technical Skills
 
 ## Research Interests
 
-- Novel applications of Bayesian methods to problems in Biostatistics
-  and associated computational issues.
+- Applications of Bayesian methods to problems in Biostatistics.
 
 - Longitudinal studies with missing data and causal inference.
 
 - Bayesian nonparametrics and semiparametrics.
 
+- Computational issues associated with the above.
+
 <!-- ## References -->
 
 <!-- - Mike Daniels -->
 <!-- - Hani Doss -->
+
