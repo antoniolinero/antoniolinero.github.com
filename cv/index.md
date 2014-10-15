@@ -28,6 +28,7 @@ image:
 > theodds@ufl.edu
 
 ----
+
 ## Education
 
 2005 - 2009
