@@ -135,7 +135,8 @@ Technical Skills
 
 ## Research Interests
 
-- Applications of Bayesian methods to problems in Biostatistics.
+- Applications of Bayesian methods to problems in Biostatistics and
+  machine learning.
 
 - Inference in longitudinal studies with missing data and causal inference.
 
