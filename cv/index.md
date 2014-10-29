@@ -40,8 +40,16 @@ image:
 :   **PhD, Statistics**, 
     University of Florida
 
+	Dissertation - *Nonparametric Bayes: Inference Under Nonignorable
+    Missingness and Model Selection*
 
 ## Awards
+
+2014
+:   **Statistics Faculty Award**, University of Florida
+
+    Awarded to "the best graduating PhD Student" in the Department of
+    Statistics.
 
 2014
 :   **Laplace Award** for best Bayesian student paper, International
@@ -58,11 +66,15 @@ image:
     <!-- Approach to Monotone Missing Data in Longitudinal Studies with -->
     <!-- Informative Dropout* -->
 
-Fall 2010 - Spring 2012
+Fall 2010 - Spring 2011
 :   **Mendenhall Fellow**, University of Florida
+
+	Fellowship awarded to top incoming students.
 
 Fall 2010 - Spring 2013
 :   **Grinter Fellow**, University of Florida
+
+	Research and graduate program fellowship.
 
 
 ## Publications
@@ -79,7 +91,10 @@ Fall 2010 - Spring 2013
   Convergence in Probability, and Mean Convergence. <em>Stochastic
   Analysis and Applications</em>, 31, 684-694
 
-<!-- ## Working Papers -->
+## Working Papers
+
+- **Linero, A.R.** and Doss, H. Empirical Bayes and Model Selection
+  for Hierarchical Nonparametric Priors.
 
 ## Conference Presentations
 
@@ -122,13 +137,15 @@ Technical Skills
 
 - Applications of Bayesian methods to problems in Biostatistics.
 
-- Longitudinal studies with missing data and causal inference.
+- Inference in longitudinal studies with missing data and causal inference.
 
 - Bayesian nonparametrics and semiparametrics.
 
 - Computational issues associated with the above.
 
-<!-- ## References -->
+## References
+
+- See pdf version of CV linked at top of the page.
 
 <!-- - Mike Daniels -->
 <!-- - Hani Doss -->
