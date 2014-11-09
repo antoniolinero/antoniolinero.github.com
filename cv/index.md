@@ -19,7 +19,7 @@ image:
 
 # Antonio Linero
 
-> [Click here for pdf version](/cv/CV.pdf)
+> [Click here for pdf version](/cv/ModernCV.pdf)
 
 ----
 
@@ -44,6 +44,11 @@ image:
     Missingness and Model Selection*
 
 ## Awards
+
+Spring 2015
+:   **CLAS Dissertation Fellowship**, University of Florida
+
+	Funding for writing of PhD dissertation. 
 
 2014
 :   **Statistics Faculty Award**, University of Florida
