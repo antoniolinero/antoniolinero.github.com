@@ -9,8 +9,48 @@ tags: []
 image:
   feature:
 ---
+/* asdf */
+<style media="screen" type="text/css">
 
+h1 {
+    <!-- font-size: 55px; -->
+    color: #757575;
+    text-align:center;
+    margin-bottom:15px;
+}
 
+/* Titles of categories */
+h2 {
+/* color: #397249; */
+color: #43a2ca;
+}
+/* There is a bar just before each category */
+h2:before {
+content: "";
+display: inline-block;
+margin-right:1%;
+width: 40%;
+height: 10px;
+/* background-color: #9CB770; */
+background-color: #43a2ca;
+}
+/* h2:hover { */
+/*     background-color: #397249; */
+/*     color: #FFFFFF; */
+/*     text-shadow: 1px 1px 1px #333; */
+/* } */
+
+hr {
+    color: #A6A6A6;
+}
+
+<!-- blockquote { -->
+<!--     text-align: center; -->
+<!-- 	border: none; -->
+<!-- 	padding: inherit; -->
+<!-- } -->
+
+</style>
 
 <!-- [//]: # (pandoc --standalone -c resume-master/stylepdf.css --from markdown --to html -o CV.html CV.rmd) -->
 <!-- [//]: # (pandoc --standalone --from markdown --to latex -o CV.tex CV.rmd) -->
@@ -19,13 +59,14 @@ image:
 
 # Antonio Linero
 
-> [Click here for pdf version](/cv/ModernCV.pdf)
+<div class="cv-subtitle"> <a href="/cv/ModernCV.pdf"> Click here for pdf version</a> </div>
+
+ <!-- [Click here for pdf version](/cv/ModernCV.pdf) -->
 
 ----
 
-> PhD, Statistics
-
-> theodds@ufl.edu
+<div class="cv-subtitle">PhD, Statistics</div>
+<div class="cv-subtitle">theodds@ufl.edu</div>
 
 ----
 
@@ -101,15 +142,39 @@ Fall 2010 - Spring 2013
 - **Linero, A.R.** and Doss, H. Empirical Bayes and Model Selection
   for Hierarchical Nonparametric Priors.
 
-## Conference Presentations
+## Presentations
 
-<!-- ### Topic Contributed -->
+#### Contributed
 
 <div class="hangingindent"> </div>
 
-- Joint Statistical Meeting, 2014, *A Flexible Bayesian Approach to
+- **Joint Statistical Meeting, 2014**, *A Flexible Bayesian Approach to
 	Monotone Missing Data in Longitudinal Studies with Informative
 	Dropout with Application to a Schizophrenia Clinical Trial.*
+
+#### Invited
+
+<div class="hangingindent"> </div>
+
+- **Florida State University, 1/12/2015**, *Flexible Bayesian Analysis
+  in the Presence of Nonignorable Missingness.*
+
+- **Arizona State University, 1/20/2015**, *Flexible Bayesian Analysis
+  in the Presence of Nonignorable Missingness.*
+
+- **University of Illinois at Urbana-Champaign, 1/28/2015**, *Flexible Bayesian Analysis
+  in the Presence of Nonignorable Missingness.*
+
+- **Texas A&M University, 2/09/2015**, *Flexible Bayesian Analysis in
+  the Presence of Nonignorable Missingness.*
+
+- **University of California at Irvine, 2/11/2015**, *Flexible Bayesian Analysis
+  in the Presence of Nonignorable Missingness.*
+
+## Service
+
+- **ENAR 2014 Spring Meeting**, Chair of session "Innovative Bayesian
+  Nonparametrics in Biostatistics". 
 
 ## Teaching
 
