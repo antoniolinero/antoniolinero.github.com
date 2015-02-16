@@ -9,7 +9,6 @@ tags: []
 image:
   feature:
 ---
-/* asdf */
 <style media="screen" type="text/css">
 
 h1 {
