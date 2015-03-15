@@ -124,17 +124,25 @@ Fall 2010 - Spring 2013
 
 ## Publications
 
+### Peer Reviewed
+
 <div class="hangingindent"> </div>
 
-- **Linero, A.R.** and Daniels, M. (2014) A Flexible Bayesian Approach
-  to Monotone Missing Data in Longitudinal Studies with Informative
-  Dropout with Application to a Schizophrenia Clinical
-  Trial. <em>Journal of the American Statistical Association</em>,
-  forthcoming.
+- **Linero, A.R.** and Daniels, M. (2015) A flexible Bayesian approach
+  to monotone missing data in longitudinal studies with nonignorable
+  missingness with application to an acute schizophrenia clinical
+  trial. <em>Journal of the American Statistical Association</em>,
+  in press.
 
 - **Linero, A.R.** and Rosalsky, A. (2013) On the Toeplitz Lemma,
   Convergence in Probability, and Mean Convergence. <em>Stochastic
-  Analysis and Applications</em>, 31, 684-694
+  Analysis and Applications</em>, 31(4), 684-694.
+
+### Book Chapters
+
+- Daniels, M.J. and **Linero, A.R.** (2015) Bayesian Nonparametrics
+  for Missing Data in Longitudinal Clinical Trials.  In
+  <em>Nonparametric Bayesian Inference in Biostatistics.</em>
 
 ## Working Papers
 
