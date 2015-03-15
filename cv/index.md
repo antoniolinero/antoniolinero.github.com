@@ -140,6 +140,8 @@ Fall 2010 - Spring 2013
 
 ### Book Chapters
 
+<div class="hangingindent"> </div>
+
 - Daniels, M.J. and **Linero, A.R.** (2015) Bayesian Nonparametrics
   for Missing Data in Longitudinal Clinical Trials.  In
   <em>Nonparametric Bayesian Inference in Biostatistics.</em>
